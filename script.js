@@ -1,3 +1,5 @@
+"use strict";
+
 const city = document.querySelector(".city");
 const icon1 = document.querySelector(".icon");
 const description1 = document.querySelector(".description");

@@ -68,3 +68,9 @@ button:hover {
 .weather.loading {
   visibility: hidden;
 }
+
+@media only screen and (max-width: 600px) {
+  .card {
+    max-width: 90%;
+  }
+}
