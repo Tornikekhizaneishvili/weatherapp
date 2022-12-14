@@ -42,6 +42,7 @@ body {
   border-radius: 10px;
   margin-bottom: 10px;
   outline: none;
+  cursor: pointer;
 }
 
 button {
@@ -49,6 +50,7 @@ button {
   border-radius: 10px;
   margin-left: 5px;
   margin-bottom: 10px;
+  cursor: pointer;
 }
 
 .flex {
